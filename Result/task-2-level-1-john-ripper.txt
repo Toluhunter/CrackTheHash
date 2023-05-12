@@ -1,0 +1,2 @@
+Loaded 1 password hash (Raw-SHA1 [SHA1 128/128 AVX 4x])
+password123      (?)

@@ -1,0 +1,2 @@
+Loaded 1 password hash (NT [MD4 128/128 AVX 4x3])
+n63umy8lkf4i     (?)
