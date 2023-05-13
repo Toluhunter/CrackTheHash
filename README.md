@@ -3,7 +3,7 @@
 
 Challenge Points: 270
 
-Crack the hash is a tyrhackme capture the flag (ctf) challenge in the forsenics category which focuses on the cracking of different hashing algorithms, this writeup will primarily make use of the tool **John The Ripper**.
+Crack the hash is a tryhackme capture the flag (ctf) challenge in the cryptography category which focuses on the cracking of different hashing algorithms, this writeup will primarily make use of the tool **John The Ripper**.
 
 ## Level 1
 
